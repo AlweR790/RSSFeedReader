@@ -17,7 +17,7 @@ public class MainFrame extends JFrame
                 setSize(1200, 800);
                 setDefaultCloseOperation(EXIT_ON_CLOSE);
                 setLocationRelativeTo(null);
-                getContentPane().setBackground(Color.DARK_GRAY);
+                getContentPane().setBackground(Color.DARK_GRAY.darker());
 
             }
     }
