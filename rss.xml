@@ -1,0 +1,994 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://purl.org/rss/1.0/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+    <channel rdf:about="https://www.novinky.cz">
+        <title>Novinky.cz - Hlavní stránka</title>
+        <link>https://www.novinky.cz/</link>
+        <description>Novinky.cz - zpravodajský server</description>
+        <image rdf:resource="https://www.novinky.cz/static/images/logo.gif"/>
+        <items>
+            <rdf:Seq>
+
+                <rdf:li resource="https://www.novinky.cz/zahranicni/blizky-a-stredni-vychod/487539-zavrazdeny-chasukdzi-chtel-psat-o-saudskem-chemickem-utoku-v-jemenu-tvrdi-jeho-pritel.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/veda-skoly/487531-cinska-soukroma-raketa-nezvladla-cestu-na-obeznou-drahu.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/kultura/487525-skupina-john-wolfhooker-klip-k-pisni-freak-show-vznikl-ve-strasidelnem-dome.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/cestovani/487513-jako-z-jine-planety-etiopska-prolaklina-uchvati-barvami.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/krimi/487533-muz-podezrely-z-vrazdy-prodavacky-na-trebicsku-se-sam-prihlasil-policii.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/domaci/487541-meteorologove-rozsirili-vystrahu-pred-silnym-vetrem.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/auto/487521-unikatni-porsche-se-behem-deseti-minut-vydrazilo-za-70-milionu-korun.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/bydleni/nemoci-nemovitosti/486884-nevhodne-resene-svody-aneb-kdyz-zachycena-voda-potrha-dum.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/kultura/487503-nova-prichazi-s-dalsim-podivinskym-detektivem.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/domaci/487523-v-ralsku-nasli-mrtvou-vlcici-zabilo-ji-zrejme-divoke-prase.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/zena/styl/486845-milovane-i-nenavidene-boty-zvane-kacenky-jsou-opet-v-mode.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/veda-skoly/487517-brnensti-studenti-poskladali-obri-mapu-mezivalecneho-ceskoslovenska.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/domaci/487518-stb-vedla-svazek-o-trumpovi.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/domaci/487506-policejni-prezident-tuhy-konci-ve-funkci-ma-nahradit-klausovou-v-bratislave.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/koktejl/487499-homosexualni-tucnaci-z-australskeho-akvaria-privedli-na-svet-potomka.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/krimi/487510-kvitovou-znam-jen-z-televize-tvrdil-u-soudu-muz-obzalovany-z-utoku-na-tenistku.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/internet-a-pc/testy/486959-chytre-telefony-konkuruji-fotoaparatum.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/zahranicni/evropa/487508-angela-merkelova-konci-v-cele-cdu.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/krimi/487507-autobus-se-prevratil-po-stretu-s-kamionem-na-jihlavsku-jedenact-lidi-se-zranilo.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/zena/487487-puvod-pover-kterym-veri-lide-v-mnoha-zemich-sveta.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/ekonomika/487497-vysetrovatele-odlozili-oznameni-na-agrofert-kvuli-dluhopisum.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/krimi/487502-muz-obvineny-z-vrazdy-prodavacky-v-letnanech-do-vezeni-nepujde-byl-nepricetny.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/domaci/487498-nove-hlavni-nadrazi-se-ma-jmenovat-salingrad-rozhodli-brnane.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/kultura/487492-roden-psychologem-i-zivot-dealera-koksu-serialova-zima-bude-silna.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/krimi/487496-cisterna-na-melnicku-se-pri-nehode-prevratila-na-bok-nafta-a-benzin-vytekly-ven.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/cestovani/487495-na-galapagach-vznikne-prvni-soukroma-prirodni-rezervace.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/muzi/487152-libanonsky-nozir-se-snazi-udrzet-tradici-sveho-remesla.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/domaci/487493-rijen-se-rozlouci-teplotnimi-soky.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/domaci/487491-zaznamy-prenosu-z-oslav-100-vyroci-vzniku-ceskoslovenska.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/komentare/487490-komentar-100-let-boje-o-existenci-statu-vaclav-klaus-ml.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/zena/vztahy-a-sex/487449-laska-je-predevsim-o-duvere-a-uprimnosti-soucitne-lzi-k-ni-nepatri.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/internet-a-pc/487439-roboti-budou-vyrabet-roboty-svycari-postavi-v-cine-novy-zavod.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/bydleni/tipy-a-trendy/486176-vyzkousejte-nabytkove-moduly-nabizeji-dostatek-mista-i-propracovany-design.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/auto/487482-jen-99-kusu-a-ani-o-jeden-vic-alpina-predstavila-paradne-upravene-bmw.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/domaci/487204-elektrokolobezky-zaplavily-chodniky-z-prahy-2-maji-zmizet.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/internet-a-pc/487438-microsoft-se-vratil-na-pozici-druhe-nejhodnotnejsi-firmy-v-usa.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/ekonomika/487489-vic-nez-tretina-vlaku-ceskych-drah-slouzi-pres-30-let-zjistili-kontrolori.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/auto/487481-francie-zada-automobilky-aby-financovaly-srotovne.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/bydleni/tipy-a-trendy/487202-podstatu-prace-firmy-vyjadrili-architekti-v-malebnem-designu-jejich-kancelare.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/zahranicni/evropa/487486-bourky-a-intenzivni-dest-v-italii-zabijely.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/koktejl/487374-stary-medved-zabloudil-do-vodni-elektrarny-vysvobodit-ho-musel-bagr.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/zahranicni/svet/487485-u-salvadoru-uderilo-silne-zemetreseni.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/zahranicni/svet/487484-brazilskym-prezidentem-bude-kandidat-krajni-pravice-bolsonaro.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/ekonomika/487291-ovoce-zustava-na-stromech-nejsou-lidi.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/finance/486399-vybrat-kvalitni-zivotni-pojistku-neni-snadne-na-co-si-dat-pozor.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/koktejl/487404-vedci-uci-umelou-inteligenci-pouzivat-usta-onim-prijemnym-zpusobem.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/cestovani/487333-zeme-kde-se-posvatne-zlato-pridava-i-do-piti.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/finance/487033-na-benzinky-uz-i-za-nakupy-a-zabavou.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/finance/486950-slovaku-v-cesku-pribyva-laka-je-vice-pracovnich-prilezitosti-i-vyssi-zivotni-uroven.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/muzi/487100-nemecti-vegani-z-exotu-zajimava-vysec-trhu.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/veda-skoly/487153-umely-mesic-ach-jo-nesmysl-reaguje-cesky-astronom-na-cinsky-napad.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/komentare/487347-komentar-hyperliberalismus-alexander-tomsky.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/komentare/487314-komentar-ideovy-trosecnik-petr-pitha-a-jeho-souputnici-jiri-pehe.html"/>
+
+                <rdf:li resource="https://www.novinky.cz/muzi/486668-izraelska-restaurace-sklizi-uspech-s-falafelovymi-vaflemi.html"/>
+
+            </rdf:Seq>
+        </items>
+    </channel>
+
+    <image rdf:about="https://1.im.cz/n/img/logo.gif">
+        <title>Novinky.cz</title>
+        <url>https://1.im.cz/n/img/logo.gif</url>
+        <link>https://www.novinky.cz</link>
+    </image>
+
+
+    <item rdf:about="https://www.novinky.cz/zahranicni/blizky-a-stredni-vychod/487539-zavrazdeny-chasukdzi-chtel-psat-o-saudskem-chemickem-utoku-v-jemenu-tvrdi-jeho-pritel.html">
+
+        <link>https://www.novinky.cz/zahranicni/blizky-a-stredni-vychod/487539-zavrazdeny-chasukdzi-chtel-psat-o-saudskem-chemickem-utoku-v-jemenu-tvrdi-jeho-pritel.html</link>
+
+        <title>Zavražděný Chášukdží chtěl psát o saúdském chemickém útoku v Jemenu, tvrdí jeho přítel</title>
+        <dc:date>2018-10-29T12:31:01+01:00</dc:date>
+
+
+        <description>Zavražděný saúdský novinář Džamál Chášukdží chtěl zveřejnit informace o tom, že Saúdská Arábie v Jemenu použila chemické zbraně. Velká Británie navíc věděla již tři týdny před Chášukdžího vraždou, že se Rijád chystal novináře unést. S odvoláním na tvrzení Chášukdžího blízkého přítele a zdroje v britských zpravodajských službách o tom informoval britský nedělník Sunday Express.</description>
+        <webfeeds:cover image="https://media.novinky.cz/305/713051-top_foto1-mkcit.jpg" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/veda-skoly/487531-cinska-soukroma-raketa-nezvladla-cestu-na-obeznou-drahu.html">
+
+        <link>https://www.novinky.cz/veda-skoly/487531-cinska-soukroma-raketa-nezvladla-cestu-na-obeznou-drahu.html</link>
+
+        <title>Čínská soukromá raketa nezvládla cestu na oběžnou dráhu</title>
+        <dc:date>2018-10-29T12:00:01+01:00</dc:date>
+
+
+        <description>Třístupňová raketa čínské soukromé firmy, která měla do vesmíru vynést televizní družici, nedoletěla na oběžnou dráhu. Stroj ZQ-1 pekingské společnosti LandSpace startoval v neděli 28. října z kosmodromu Ťiou-čchüann na okraji pouště Gobi v severní Číně. Informovala o tom agentura Reuters.</description>
+        <webfeeds:cover image="https://media.novinky.cz/362/713628-top_foto1-2ykmd.jpg" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/kultura/487525-skupina-john-wolfhooker-klip-k-pisni-freak-show-vznikl-ve-strasidelnem-dome.html">
+
+        <link>https://www.novinky.cz/kultura/487525-skupina-john-wolfhooker-klip-k-pisni-freak-show-vznikl-ve-strasidelnem-dome.html</link>
+
+        <title>Skupina John Wolfhooker: Klip k písni Freak Show vznikl ve strašidelném domě</title>
+        <dc:date>2018-10-29T11:58:01+01:00</dc:date>
+
+
+        <description>Česko-slovenská rocková kapela John Wolfhooker natočila loni v lednu ve studiu v Divíně na východním Slovensku pět skladeb, které vznikly přímo na místě. Od srpna loňského roku je postupně zveřejňovala opatřené videoklipem. Nyní představuje klip k písni Freak Show, který je poslední ze série, jež v Divíně vznikla. </description>
+        <webfeeds:cover image="https://media.novinky.cz/362/713627-top_foto1-4np29.jpg" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/cestovani/487513-jako-z-jine-planety-etiopska-prolaklina-uchvati-barvami.html">
+
+        <link>https://www.novinky.cz/cestovani/487513-jako-z-jine-planety-etiopska-prolaklina-uchvati-barvami.html</link>
+
+        <title>Jako z jiné planety. Etiopská proláklina uchvátí barvami</title>
+        <dc:date>2018-10-29T11:52:01+01:00</dc:date>
+
+
+        <description>Bez přehánění ji lze nazvat jednou z nejvíce fascinujících oblastí na Zemi. Danakilská proláklina v Etiopii vypadá pro své zářivé barvy jako z jiné planety a mimo to v ní také panují pořádně vysoké teploty. I proto jí místní přezdívají brána do pekel. </description>
+        <webfeeds:cover image="https://media.novinky.cz/360/713604-top_foto1-4doyr.jpg" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/krimi/487533-muz-podezrely-z-vrazdy-prodavacky-na-trebicsku-se-sam-prihlasil-policii.html">
+
+        <link>https://www.novinky.cz/krimi/487533-muz-podezrely-z-vrazdy-prodavacky-na-trebicsku-se-sam-prihlasil-policii.html</link>
+
+        <title>Muž podezřelý z vraždy prodavačky na Třebíčsku se sám přihlásil policii</title>
+        <dc:date>2018-10-29T11:50:01+01:00</dc:date>
+
+
+        <description>Čtyřicetiletý muž, který v sobotu v Moravských Budějovicích na Třebíčsku podle policie ubodal svou bývalou přítelkyni, se po třech hodinách sám nahlásil policii. Vraždu plánoval. Osmatřicetiletou ženu napadl kuchyňským nožem v prodejně, kde pracovala. Hrozí mu 15 až 25 let vězení nebo výjimečný trest, řekl v pondělí kriminalista Pavel Kubiš.</description>
+        <webfeeds:cover image="https://media.novinky.cz/473/354736-top_foto1-doag1.jpg" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/domaci/487541-meteorologove-rozsirili-vystrahu-pred-silnym-vetrem.html">
+
+        <link>https://www.novinky.cz/domaci/487541-meteorologove-rozsirili-vystrahu-pred-silnym-vetrem.html</link>
+
+        <title>Meteorologové rozšířili výstrahu před silným větrem</title>
+        <dc:date>2018-10-29T11:47:00+01:00</dc:date>
+
+
+        <description>Varování Českého hydrometeorologického ústavu (ČHMÚ) před silným větrem platí nově na celém území republiky od pondělních 17 hodin. Na hřebenech hor může vítr v nárazech dosahovat rychlosti až 110 kilometrů v hodině.</description>
+        <webfeeds:cover image="https://media.novinky.cz/364/713648-top_foto1-ngov5.jpg" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/auto/487521-unikatni-porsche-se-behem-deseti-minut-vydrazilo-za-70-milionu-korun.html">
+
+        <link>https://www.novinky.cz/auto/487521-unikatni-porsche-se-behem-deseti-minut-vydrazilo-za-70-milionu-korun.html</link>
+
+        <title>Unikátní Porsche se během deseti minut vydražilo za 70 miliónů korun</title>
+        <dc:date>2018-10-29T11:42:01+01:00</dc:date>
+
+
+        <description>Porsche 911 typové řady 993 bylo posledním autem od této automobilky se vzduchem chlazeným motorem a pro mnohé je to ta nejlepší devětsetjedenáctka všech dob. Automobilka nyní vyrobila jeden kus, který vydražila za astronomickou sumu.</description>
+        <webfeeds:cover image="https://media.novinky.cz/363/713630-top_foto1-9dl4y.jpg" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/bydleni/nemoci-nemovitosti/486884-nevhodne-resene-svody-aneb-kdyz-zachycena-voda-potrha-dum.html">
+
+        <link>https://www.novinky.cz/bydleni/nemoci-nemovitosti/486884-nevhodne-resene-svody-aneb-kdyz-zachycena-voda-potrha-dum.html</link>
+
+        <title>Nevhodně řešené svody aneb Když zachycená voda potrhá dům </title>
+        <dc:date>2018-10-29T11:40:01+01:00</dc:date>
+
+
+        <description>Vody kolem domu se většinou bojíme v souvislosti s vlhkostí stěn či podlah. Ale voda blízko domu může způsobit i mnohem větší problémy, a to statické. O tom se přesvědčili pan Jiří i paní Věra.</description>
+        <webfeeds:cover image="https://media.novinky.cz/233/712338-top_foto1-vuz2p.jpg" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/kultura/487503-nova-prichazi-s-dalsim-podivinskym-detektivem.html">
+
+        <link>https://www.novinky.cz/kultura/487503-nova-prichazi-s-dalsim-podivinskym-detektivem.html</link>
+
+        <title>Nova přichází s dalším podivínským detektivem</title>
+        <dc:date>2018-10-29T11:18:02+01:00</dc:date>
+
+
+        <description>Je osamělý a trpí fobií z bakterií jako soukromé očko Adrian Monk, ale při jednání s lidmi připomíná svými nechtěně komickými výstupy spíš autistického Sheldona z Teorie velkého třesku. </description>
+        <webfeeds:cover image="" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/domaci/487523-v-ralsku-nasli-mrtvou-vlcici-zabilo-ji-zrejme-divoke-prase.html">
+
+        <link>https://www.novinky.cz/domaci/487523-v-ralsku-nasli-mrtvou-vlcici-zabilo-ji-zrejme-divoke-prase.html</link>
+
+        <title>V Ralsku našli mrtvou vlčici. Zabilo ji zřejmě divoké prase</title>
+        <dc:date>2018-10-29T11:13:01+01:00</dc:date>
+
+
+        <description>Mrtvé tělo mladé vlčice našli lesníci v lesích bývalého vojenského újezdu Ralsko na Českolipsku, nedaleko obce Hradčany. Podle ochránců přírody se zdá, že vlčice zahynula po souboji s jiným zvířetem, pravděpodobně divokým prasetem.</description>
+        <webfeeds:cover image="https://media.novinky.cz/362/713629-top_foto1-t1idf.jpg" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/zena/styl/486845-milovane-i-nenavidene-boty-zvane-kacenky-jsou-opet-v-mode.html">
+
+        <link>https://www.novinky.cz/zena/styl/486845-milovane-i-nenavidene-boty-zvane-kacenky-jsou-opet-v-mode.html</link>
+
+        <title>Milované i nenáviděné boty zvané kačenky jsou opět v módě</title>
+        <dc:date>2018-10-29T11:05:01+01:00</dc:date>
+
+
+        <description>Kačenky neboli podle módní terminologie tzv. kitten heels jsou boty na malém, maximálně pěticentimetrovém úzkém podpatku, který se může, ale také nemusí dole rozšiřovat. Tyto boty slavily velký úspěch zejména v 50. letech minulého století, než je zcela nahradily trendy jehly a boty na klínku. Nový život jim vdechli designéři až letos. Podívejte se, jak vypadají.</description>
+        <webfeeds:cover image="https://media.novinky.cz/230/712305-top_foto1-gq4rn.jpg" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/veda-skoly/487517-brnensti-studenti-poskladali-obri-mapu-mezivalecneho-ceskoslovenska.html">
+
+        <link>https://www.novinky.cz/veda-skoly/487517-brnensti-studenti-poskladali-obri-mapu-mezivalecneho-ceskoslovenska.html</link>
+
+        <title>Brněnští studenti poskládali obří mapu meziválečného Československa</title>
+        <dc:date>2018-10-29T11:02:01+01:00</dc:date>
+
+
+        <description>Desítka studentů Geografického ústavu z Masarykovy univerzity (MU) v Brně v neděli 28. října i s pomocí kolegů z Fakulty sportovních studií MU poskládala ve školní sportovní hale 700 mapových listů, které dohromady tvoří v měřítku 1:25 000 mapu meziválečného Československa. Měřila zhruba 40x17 metrů a tvůrci budou usilovat o zápis do Guinnessovy knihy rekordů, řekl organizátor z Geografického ústavu Zdeněk Stachoň.</description>
+        <webfeeds:cover image="" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/domaci/487518-stb-vedla-svazek-o-trumpovi.html">
+
+        <link>https://www.novinky.cz/domaci/487518-stb-vedla-svazek-o-trumpovi.html</link>
+
+        <title>StB vedla svazek o Trumpovi</title>
+        <dc:date>2018-10-29T10:53:02+01:00</dc:date>
+
+
+        <description>Současný americký prezident Donald Trump byl v minulosti předmětem zájmu československé komunistické Státní bezpečnosti (StB). Cílem StB, která vedla svazek ve spolupráci s rozvědkou, bylo zjistit vazby Trumpovy rodiny na vládní a mocenské kruhy ve Spojených státech. StB měla od informátorů k dispozici údaje o Trumpově rodině, podnikatelské činnosti či ambici stát se prezidentem.</description>
+        <webfeeds:cover image="https://media.novinky.cz/267/712674-top_foto1-nvael.jpg" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/domaci/487506-policejni-prezident-tuhy-konci-ve-funkci-ma-nahradit-klausovou-v-bratislave.html">
+
+        <link>https://www.novinky.cz/domaci/487506-policejni-prezident-tuhy-konci-ve-funkci-ma-nahradit-klausovou-v-bratislave.html</link>
+
+        <title>Policejní prezident Tuhý končí ve funkci, má nahradit Klausovou v Bratislavě</title>
+        <dc:date>2018-10-29T10:48:02+01:00</dc:date>
+
+
+        <description>Spekulace o tom, že se působení Tomáše Tuhého (46) ve funkci policejního prezidenta po čtyřech a půl letech chýlí ke konci, jsou nyní skutečností. Tuhý končí v křesle šéfa české policie již ve středu 31. října. Informaci Práva ze dvou na sobě nezávislých vysoce postavených zdrojů z bezpečnostních kruhů v pondělí potvrdil ministr vnitra Jan Hamáček (ČSSD). </description>
+        <webfeeds:cover image="https://media.novinky.cz/191/571916-top_foto1-fv9qz.jpg" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/koktejl/487499-homosexualni-tucnaci-z-australskeho-akvaria-privedli-na-svet-potomka.html">
+
+        <link>https://www.novinky.cz/koktejl/487499-homosexualni-tucnaci-z-australskeho-akvaria-privedli-na-svet-potomka.html</link>
+
+        <title>Homosexuální tučňáci z australského akvária přivedli na svět potomka</title>
+        <dc:date>2018-10-29T10:48:01+01:00</dc:date>
+
+
+        <description>Samci tučňáka oslího Sphen a Magic z podmořského akvária v Sydney obletěli titulky světových médií poté, co jim tamní zaměstnanci s ohledem na jejich vřelý vztah svěřili do opatrovnictví vejce. V prvním kroku rodičovství homosexuální pár úspěšně obstál, před nedávnem totiž na svět přivedl zdravého potomka.</description>
+        <webfeeds:cover image="https://media.novinky.cz/359/713593-top_foto1-t1rx6.jpg" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/krimi/487510-kvitovou-znam-jen-z-televize-tvrdil-u-soudu-muz-obzalovany-z-utoku-na-tenistku.html">
+
+        <link>https://www.novinky.cz/krimi/487510-kvitovou-znam-jen-z-televize-tvrdil-u-soudu-muz-obzalovany-z-utoku-na-tenistku.html</link>
+
+        <title>Kvitovou znám jen z televize, tvrdil u soudu muž obžalovaný z útoku na tenistku</title>
+        <dc:date>2018-10-29T10:30:01+01:00</dc:date>
+
+
+        <description>Brněnský krajský soud začal v pondělí projednávat případ údajného útoku nožem na tenistku Petru Kvitovou, ze kterého je obžalovaný třiatřicetiletý recidivista Radim Žondra. Podle obžaloby přišel předloni za sportovkyní do jejího bytu v Prostějově pod záminkou kontroly kotle. Žondra ale tvrdí, že na místě činu nebyl a Kvitovou zná jen z médií.</description>
+        <webfeeds:cover image="https://media.novinky.cz/362/713621-top_foto1-325br.jpg" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/internet-a-pc/testy/486959-chytre-telefony-konkuruji-fotoaparatum.html">
+
+        <link>https://www.novinky.cz/internet-a-pc/testy/486959-chytre-telefony-konkuruji-fotoaparatum.html</link>
+
+        <title>Chytré telefony konkurují fotoaparátům</title>
+        <dc:date>2018-10-29T10:29:01+01:00</dc:date>
+
+
+        <description>Ještě před pár lety měla digitální kompakt uložený doma v šuplíku takřka každá rodina. Doba ale pokročila a lidé stále častěji používají k pořizování momentek své chytré telefony, které nosí neustále při sobě.</description>
+        <webfeeds:cover image="https://media.novinky.cz/051/710515-top_foto1-xhpar.jpg" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/zahranicni/evropa/487508-angela-merkelova-konci-v-cele-cdu.html">
+
+        <link>https://www.novinky.cz/zahranicni/evropa/487508-angela-merkelova-konci-v-cele-cdu.html</link>
+
+        <title>Angela Merkelová končí v čele CDU</title>
+        <dc:date>2018-10-29T10:20:00+01:00</dc:date>
+
+
+        <description>Dlouholetá spolková kancléřka Angela Merkelová se v prosinci již nebude ucházet o post předsedkyně německé Křesťanskodemokratická unie. Po konci nynějšího volebního období nechce znovu kandidovat do Spolekového sněmu. To znamená, že by nemohla usilovat o post kancléřky. V pondělí o tom informovala své spolustraníky.</description>
+        <webfeeds:cover image="https://media.novinky.cz/362/713623-top_foto1-qysuc.jpg" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/krimi/487507-autobus-se-prevratil-po-stretu-s-kamionem-na-jihlavsku-jedenact-lidi-se-zranilo.html">
+
+        <link>https://www.novinky.cz/krimi/487507-autobus-se-prevratil-po-stretu-s-kamionem-na-jihlavsku-jedenact-lidi-se-zranilo.html</link>
+
+        <title>Autobus se převrátil po střetu s kamiónem na Jihlavsku. Jedenáct lidí se zranilo</title>
+        <dc:date>2018-10-29T10:15:00+01:00</dc:date>
+
+
+        <description>U Věžnice na Jihlavsku se v pondělí dopoledne střetl autobus s nákladním autem. Zraněno bylo 11 lidí, z toho tři těžce. Autobus i kamión se převrátily mimo silnici. </description>
+        <webfeeds:cover image="https://media.novinky.cz/364/713647-top_foto1-c1ls8.jpg" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/zena/487487-puvod-pover-kterym-veri-lide-v-mnoha-zemich-sveta.html">
+
+        <link>https://www.novinky.cz/zena/487487-puvod-pover-kterym-veri-lide-v-mnoha-zemich-sveta.html</link>
+
+        <title>Původ pověr, kterým věří lidé v mnoha zemích světa</title>
+        <dc:date>2018-10-29T10:14:01+01:00</dc:date>
+
+
+        <description>Pověry provázejí naše životy již po staletí. Přestože v dnešní době již nemají takovou sílu a moc, jsou okamžiky, kdy jim podlehne i zarytý skeptik. Podívejte se s námi na původ těch nejznámějších z nich. </description>
+        <webfeeds:cover image="" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/ekonomika/487497-vysetrovatele-odlozili-oznameni-na-agrofert-kvuli-dluhopisum.html">
+
+        <link>https://www.novinky.cz/ekonomika/487497-vysetrovatele-odlozili-oznameni-na-agrofert-kvuli-dluhopisum.html</link>
+
+        <title>Vyšetřovatelé odložili oznámení na Agrofert kvůli dluhopisům</title>
+        <dc:date>2018-10-29T10:07:04+01:00</dc:date>
+
+
+        <description>Vyšetřovatelé odložili trestní oznámení na holding Agrofert kvůli nezdaněným korunovým dluhopisům. V pondělí to uvedl server iRozhlas. Nynější premiér Andrej Babiš (ANO) nakoupil tyto obligace své tehdejší firmy za 1,5 miliardy korun. Výnos činí ročně asi 90 miliónů korun a neplatí se z něj daň. Firma rozhodnutí vyšetřovatelů vítá.</description>
+        <webfeeds:cover image="https://media.novinky.cz/126/571260-top_foto1-wnmxe.jpg" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/krimi/487502-muz-obvineny-z-vrazdy-prodavacky-v-letnanech-do-vezeni-nepujde-byl-nepricetny.html">
+
+        <link>https://www.novinky.cz/krimi/487502-muz-obvineny-z-vrazdy-prodavacky-v-letnanech-do-vezeni-nepujde-byl-nepricetny.html</link>
+
+        <title>Muž obviněný z vraždy prodavačky v Letňanech do vězení nepůjde. Byl nepříčetný</title>
+        <dc:date>2018-10-29T10:02:01+01:00</dc:date>
+
+
+        <description>Státní zastupitelství zastavilo trestní stíhání 26letého muže, který byl obviněn z vraždy prodavačky v pražských Letňanech. Podle znaleckých posudků byl obviněný nepříčetný, řekl v pondělí na dotaz Novinek mluvčí policie Jan Daněk. Soud bude jednat o ochranném léčení.</description>
+        <webfeeds:cover image="" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/domaci/487498-nove-hlavni-nadrazi-se-ma-jmenovat-salingrad-rozhodli-brnane.html">
+
+        <link>https://www.novinky.cz/domaci/487498-nove-hlavni-nadrazi-se-ma-jmenovat-salingrad-rozhodli-brnane.html</link>
+
+        <title>Nové hlavní nádraží se má jmenovat Šalingrad, rozhodli Brňané</title>
+        <dc:date>2018-10-29T10:01:02+01:00</dc:date>
+
+
+        <description>Brno - Šalingrad. Právě tak by se podle Brňanů, kteří se zapojili do ankety, mělo jmenovat nové železniční nádraží. Fádní pojmenování Brno - Hlavní nádraží se umístilo na druhém místě a jako třetí návrh lidé zvolili pojmenování podle národního fiktivního génia - Nádraží Járy Cimrmana. </description>
+        <webfeeds:cover image="https://media.novinky.cz/359/713592-top_foto1-z3n5u.jpg" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/kultura/487492-roden-psychologem-i-zivot-dealera-koksu-serialova-zima-bude-silna.html">
+
+        <link>https://www.novinky.cz/kultura/487492-roden-psychologem-i-zivot-dealera-koksu-serialova-zima-bude-silna.html</link>
+
+        <title>Roden psychologem i život dealera koksu. Seriálová zima bude silná </title>
+        <dc:date>2018-10-29T10:01:01+01:00</dc:date>
+
+
+        <description>Po ČT, Nově a Primě přichází s další várkou podzimních a zimních novinek i HBO. V sérii Blinded by the Lights se dozvíme, jak se žije kokainovému dealerovi, a v další řadě velmi oceňované Terapie se setkáme s psychologem Poštou v podání Karla Rodena a jeho pacienty. </description>
+        <webfeeds:cover image="" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/krimi/487496-cisterna-na-melnicku-se-pri-nehode-prevratila-na-bok-nafta-a-benzin-vytekly-ven.html">
+
+        <link>https://www.novinky.cz/krimi/487496-cisterna-na-melnicku-se-pri-nehode-prevratila-na-bok-nafta-a-benzin-vytekly-ven.html</link>
+
+        <title>Cisterna na Mělnicku se při nehodě převrátila na bok, nafta a benzín vytekly ven</title>
+        <dc:date>2018-10-29T09:37:02+01:00</dc:date>
+
+
+        <description>Hasiči likvidovali v pondělí ráno následky srážky osobního auta s cisternou u obce Želízy na Mělnicku. Řidič auta skončil v nemocnici. Cisterna zůstala po nehodě na boku a vytekla z ní nafta a benzín, situaci proto řeší na místě také odborníci z mělnického odboru životního prostředí.</description>
+        <webfeeds:cover image="" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/cestovani/487495-na-galapagach-vznikne-prvni-soukroma-prirodni-rezervace.html">
+
+        <link>https://www.novinky.cz/cestovani/487495-na-galapagach-vznikne-prvni-soukroma-prirodni-rezervace.html</link>
+
+        <title>Na Galapágách vznikne první soukromá přírodní rezervace</title>
+        <dc:date>2018-10-29T09:37:01+01:00</dc:date>
+
+
+        <description>Na odlehlém ekvádorském souostroví Galapágy v Tichém oceánu vznikne první soukromá přírodní rezervace. Aktivisté na ochranu přírody vybrali na koupi pozemku o rozloze zhruba 230 hektarů ve sbírce 1,75 miliónu dolarů (39,6 miliónu korun). Krajinu na souostroví tím chtějí uchránit před výstavbou turistických středisek, napsal britský web The Telegraph.</description>
+        <webfeeds:cover image="" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/muzi/487152-libanonsky-nozir-se-snazi-udrzet-tradici-sveho-remesla.html">
+
+        <link>https://www.novinky.cz/muzi/487152-libanonsky-nozir-se-snazi-udrzet-tradici-sveho-remesla.html</link>
+
+        <title>Libanonský nožíř se snaží udržet tradici svého řemesla </title>
+        <dc:date>2018-10-29T09:25:01+01:00</dc:date>
+
+
+        <description>Moustafa Iskandar se ve své rodné vesnici Kousha v Libanonu snaží udržet při životě tradici, která byla tímto místem kdysi vyhlášená. Výroba ručně vyráběných nožů už zde z důvodu dostupných a levnějších importovaných nástrojů pomalu vymírá, dvaašedesátiletý Libanonec se prý ale řemeslu, které zdědil po svých dědečcích, bude věnovat až do smrti.</description>
+        <webfeeds:cover image="https://media.novinky.cz/295/712953-top_foto1-dnl2r.jpg" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/domaci/487493-rijen-se-rozlouci-teplotnimi-soky.html">
+
+        <link>https://www.novinky.cz/domaci/487493-rijen-se-rozlouci-teplotnimi-soky.html</link>
+
+        <title>Říjen se rozloučí teplotními šoky</title>
+        <dc:date>2018-10-29T09:06:01+01:00</dc:date>
+
+
+        <description>Teploty, kdy se rtuť teploměru vyšplhá až ke 20 stupňům, teplá rána a polojasné počasí očekáváme v nadcházejícím týdnu. Do úterý nám bude znepříjemňovat život silný vítr, který na horách bude dosahovat v nárazech rychlosti až 130 km/h a v nížinách 90 km/h, sdělila Novinkám Dagmar Honsová ze společnosti Meteopress.</description>
+        <webfeeds:cover image="https://media.novinky.cz/125/671257-top_foto1-7m013.jpg" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/domaci/487491-zaznamy-prenosu-z-oslav-100-vyroci-vzniku-ceskoslovenska.html">
+
+        <link>https://www.novinky.cz/domaci/487491-zaznamy-prenosu-z-oslav-100-vyroci-vzniku-ceskoslovenska.html</link>
+
+        <title>Záznamy přenosů z oslav 100. výročí vzniku Československa</title>
+        <dc:date>2018-10-29T09:03:02+01:00</dc:date>
+
+
+        <description>Česko i Slovensko si v neděli připomněly sté výročí vzniku nezávislého společného státu. U příležitosti jubilea se o víkendu uskutečnila řada akcí, které měly tuto zásadní událost našich dějin připomenout. U těch nejvýznamnějších nechyběly kamery Novinek, které je přenášely živě. Nyní přinášíme jejich souhrn. </description>
+        <webfeeds:cover image="" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/komentare/487490-komentar-100-let-boje-o-existenci-statu-vaclav-klaus-ml.html">
+
+        <link>https://www.novinky.cz/komentare/487490-komentar-100-let-boje-o-existenci-statu-vaclav-klaus-ml.html</link>
+
+        <title>KOMENTÁŘ: 100 let boje o existenci státu - Václav Klaus ml.</title>
+        <dc:date>2018-10-29T08:50:02+01:00</dc:date>
+
+
+        <description>Před sto lety naši předkové vybojovali, poněkolikáté v historii, právo českého národa na to, vládnout si sami. Minulá století i století poslední ukazují, že nejde o nic samozřejmého.</description>
+        <webfeeds:cover image="https://media.novinky.cz/728/547289-top_foto1-su842.jpg" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/zena/vztahy-a-sex/487449-laska-je-predevsim-o-duvere-a-uprimnosti-soucitne-lzi-k-ni-nepatri.html">
+
+        <link>https://www.novinky.cz/zena/vztahy-a-sex/487449-laska-je-predevsim-o-duvere-a-uprimnosti-soucitne-lzi-k-ni-nepatri.html</link>
+
+        <title>Láska je především o důvěře a upřímnosti, soucitné lži k ní nepatří</title>
+        <dc:date>2018-10-29T08:50:01+01:00</dc:date>
+
+
+        <description>Mnoho lidí má představu, že pokud člověk někoho miluje, přijímá ho se vším všudy, tedy i s jeho negativy. Z důvodu lásky tedy mlčí i v okamžicích, když se jim něco nelíbí či s něčím nesouhlasí a často se raději uchylují k milosrdné lži. </description>
+        <webfeeds:cover image="" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/internet-a-pc/487439-roboti-budou-vyrabet-roboty-svycari-postavi-v-cine-novy-zavod.html">
+
+        <link>https://www.novinky.cz/internet-a-pc/487439-roboti-budou-vyrabet-roboty-svycari-postavi-v-cine-novy-zavod.html</link>
+
+        <title>Roboti budou vyrábět roboty. Švýcaři postaví v Číně nový závod</title>
+        <dc:date>2018-10-29T08:32:02+01:00</dc:date>
+
+
+        <description>Švýcarská strojírenská společnost ABB plánuje postavit v Číně továrnu, ve které budou roboti vyrábět roboty. Investice do továrny v Šanghaji má činit 150 miliónů USD (3,4 miliardy Kč), informovala společnost. Čína je největším trhem průmyslových robotů.</description>
+        <webfeeds:cover image="" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/bydleni/tipy-a-trendy/486176-vyzkousejte-nabytkove-moduly-nabizeji-dostatek-mista-i-propracovany-design.html">
+
+        <link>https://www.novinky.cz/bydleni/tipy-a-trendy/486176-vyzkousejte-nabytkove-moduly-nabizeji-dostatek-mista-i-propracovany-design.html</link>
+
+        <title>Vyzkoušejte nábytkové moduly, nabízejí dostatek místa i propracovaný design</title>
+        <dc:date>2018-10-29T08:31:01+01:00</dc:date>
+
+
+        <description>Pro moderní interiér je dnes typické volné uspořádání jednotlivých prvků s funkčními detaily, ať už jde o nábytkové, či sedací moduly. Díky množství úložného prostoru jsou multifunkční, s důmyslně propracovaným designem v různých variantách. Využijte jejich přednosti, kombinujte, zapojte tvůrčí fantazii! </description>
+        <webfeeds:cover image="" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/auto/487482-jen-99-kusu-a-ani-o-jeden-vic-alpina-predstavila-paradne-upravene-bmw.html">
+
+        <link>https://www.novinky.cz/auto/487482-jen-99-kusu-a-ani-o-jeden-vic-alpina-predstavila-paradne-upravene-bmw.html</link>
+
+        <title>Jen 99 kusů a ani o jeden víc. Alpina představila parádně upravené BMW</title>
+        <dc:date>2018-10-29T08:23:01+01:00</dc:date>
+
+
+        <description>Pokud se vám líbí BMW, tak se vám asi líbí i automobilka Alpina. Její úpravy aut jsou tak specifické, že i německé ministerstvo dopravy uznalo, že nejde o tuningovou firmu, ale vede ji jako automobilku. A právě Alpina teď připravila speciální sérii Alpina B4 S Edition 99.</description>
+        <webfeeds:cover image="" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/domaci/487204-elektrokolobezky-zaplavily-chodniky-z-prahy-2-maji-zmizet.html">
+
+        <link>https://www.novinky.cz/domaci/487204-elektrokolobezky-zaplavily-chodniky-z-prahy-2-maji-zmizet.html</link>
+
+        <title>Elektrokoloběžky zaplavily chodníky, z Prahy 2 mají zmizet</title>
+        <dc:date>2018-10-29T08:08:01+01:00</dc:date>
+
+
+        <description>Elektrokoloběžky americké firmy Lime dočasně zmizí z ulic Prahy 2. Radnice se na tom s firmou dohodla, protože podle Prahy 2 společnost porušila umístěním koloběžek do ulic bez dohody s radnicí memorandum uzavřené v září mezi magistrátem a firmami pro sdílení kol a koloběžek. Pražané a turisté mezitím na koloběžkách v rozporu s předpisy jezdí po chodnících, kde je také po jízdě často odkládají. </description>
+        <webfeeds:cover image="" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/internet-a-pc/487438-microsoft-se-vratil-na-pozici-druhe-nejhodnotnejsi-firmy-v-usa.html">
+
+        <link>https://www.novinky.cz/internet-a-pc/487438-microsoft-se-vratil-na-pozici-druhe-nejhodnotnejsi-firmy-v-usa.html</link>
+
+        <title>Microsoft se vrátil na pozici druhé nejhodnotnější firmy v USA</title>
+        <dc:date>2018-10-29T07:55:02+01:00</dc:date>
+
+
+        <description>Americký softwarový gigant Microsoft se vrátil na pozici druhé největší firmy v USA podle tržní kapitalizace. Z pozice americké dvojky sesadil internetového prodejce Amazon, jehož akcie v pátek po zveřejnění výsledků hospodaření klesly nejvíce od října 2014, uvedla na svých internetových stránkách CNBC. Na první pozici je nadále společnost Apple.</description>
+        <webfeeds:cover image="" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/ekonomika/487489-vic-nez-tretina-vlaku-ceskych-drah-slouzi-pres-30-let-zjistili-kontrolori.html">
+
+        <link>https://www.novinky.cz/ekonomika/487489-vic-nez-tretina-vlaku-ceskych-drah-slouzi-pres-30-let-zjistili-kontrolori.html</link>
+
+        <title>Víc než třetina vlaků Českých drah slouží přes 30 let, zjistili kontroloři</title>
+        <dc:date>2018-10-29T07:29:00+01:00</dc:date>
+
+
+        <description>Více než třetina vlaků Českých drah (ČD) slouží přes 30 let, přestože ČD získaly v letech 2008 až 2018 na obnovu vlaků 4,6 miliardy korun z evropských i státních peněz. Vyplývá to z prověrky Nejvyššího kontrolního úřadu (NKÚ).</description>
+        <webfeeds:cover image="" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/auto/487481-francie-zada-automobilky-aby-financovaly-srotovne.html">
+
+        <link>https://www.novinky.cz/auto/487481-francie-zada-automobilky-aby-financovaly-srotovne.html</link>
+
+        <title>Francie žádá automobilky, aby financovaly šrotovné</title>
+        <dc:date>2018-10-29T07:16:01+01:00</dc:date>
+
+
+        <description>Výrazné tažení proti naftovým motorům, a spalovacím motorům vůbec, by ve Francii mělo být financováno i ze zdrojů samotných automobilek. To plánuje francouzská vláda.</description>
+        <webfeeds:cover image="" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/bydleni/tipy-a-trendy/487202-podstatu-prace-firmy-vyjadrili-architekti-v-malebnem-designu-jejich-kancelare.html">
+
+        <link>https://www.novinky.cz/bydleni/tipy-a-trendy/487202-podstatu-prace-firmy-vyjadrili-architekti-v-malebnem-designu-jejich-kancelare.html</link>
+
+        <title>Podstatu práce firmy vyjádřili architekti v malebném designu jejich kanceláře</title>
+        <dc:date>2018-10-29T06:19:02+01:00</dc:date>
+
+
+        <description>Návštěvníky istanbulského sídla mezinárodní logistické společnosti Transbatur čeká roztomilé překvapení. Architekti z ateliéru OSO Architecture jeho prostředí totiž navrhli ve stylu, který samotnou podstatu přepravy nákladů vystihuje do puntíku.</description>
+        <webfeeds:cover image="" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/zahranicni/evropa/487486-bourky-a-intenzivni-dest-v-italii-zabijely.html">
+
+        <link>https://www.novinky.cz/zahranicni/evropa/487486-bourky-a-intenzivni-dest-v-italii-zabijely.html</link>
+
+        <title>Bouřky a intenzivní déšť v Itálii zabíjely</title>
+        <dc:date>2018-10-29T06:16:01+01:00</dc:date>
+
+
+        <description>Bouře s intenzivními dešti, které postihly o víkendu Itálii, mají na svědomí v Kalábrii čtyři lidské životy, napsal server ORF.at. Kvůli přívalu bahna a kamení je uzavřena část brennerské dálnice směr Sterzing v Jižním Tyrolsku, uvedl provozovatel dálnice. Z bezpečnostních důvodů je v oblasti také zastaven provoz na železniční trati, uvedla agentura DPA. </description>
+        <webfeeds:cover image="https://media.novinky.cz/355/713558-top_foto1-8qnlk.jpg" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/koktejl/487374-stary-medved-zabloudil-do-vodni-elektrarny-vysvobodit-ho-musel-bagr.html">
+
+        <link>https://www.novinky.cz/koktejl/487374-stary-medved-zabloudil-do-vodni-elektrarny-vysvobodit-ho-musel-bagr.html</link>
+
+        <title>Starý medvěd zabloudil do vodní elektrárny. Vysvobodit ho musel bagr</title>
+        <dc:date>2018-10-29T05:54:01+01:00</dc:date>
+
+
+        <description>Na pracovníky vodní elektrárny v čínské provincii Kan-su na severozápadě země čekalo ve čtvrtek ráno velké mokré a chlupaté překvapení. V kanále, kterým je do elektrárny přiváděna voda, uvízl medvěd a zoufale se snažil dostat ven. Nakonec mu musel pomoci bagr, do jehož lžíce huňáč ochotně vlezl.</description>
+        <webfeeds:cover image="" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/zahranicni/svet/487485-u-salvadoru-uderilo-silne-zemetreseni.html">
+
+        <link>https://www.novinky.cz/zahranicni/svet/487485-u-salvadoru-uderilo-silne-zemetreseni.html</link>
+
+        <title>U Salvadoru udeřilo silné zemětřesení</title>
+        <dc:date>2018-10-29T05:32:01+01:00</dc:date>
+
+
+        <description>Tichomořské pobřeží Salvadoru zasáhlo v pondělí zemětřesení o síle 6,1 stupně. Zatím nejsou k dispozici informace o škodách či raněných. Varování před vlnou tsunami zatím nebylo vydáno.</description>
+        <webfeeds:cover image="" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/zahranicni/svet/487484-brazilskym-prezidentem-bude-kandidat-krajni-pravice-bolsonaro.html">
+
+        <link>https://www.novinky.cz/zahranicni/svet/487484-brazilskym-prezidentem-bude-kandidat-krajni-pravice-bolsonaro.html</link>
+
+        <title>Brazilským prezidentem bude kandidát krajní pravice Bolsonaro </title>
+        <dc:date>2018-10-29T05:20:01+01:00</dc:date>
+
+
+        <description>Kandidát krajní pravice Jair Bolsonaro vyhrál prezidentské volby v Brazílii, oznámil v pondělí nejvyšší volební soud, který na základě ústavy dohlíží na regulérnost voleb v Brazílii. Po sečtení 94,44 procenta hlasů získal podporu 55,54 procenta voličů. </description>
+        <webfeeds:cover image="" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/ekonomika/487291-ovoce-zustava-na-stromech-nejsou-lidi.html">
+
+        <link>https://www.novinky.cz/ekonomika/487291-ovoce-zustava-na-stromech-nejsou-lidi.html</link>
+
+        <title>Ovoce zůstává na stromech, nejsou lidi</title>
+        <dc:date>2018-10-29T03:41:01+01:00</dc:date>
+
+
+        <description>Tuny ovoce, hlavně jablek, letos zřejmě zůstanou na stromech. Úrodu v některých sadech v České republice nemá kdo sklidit, a tak nejspíš skončí v kompostu. Naši sousedé ale našli způsob, jak přilákat nedostatkové pracovníky.</description>
+        <webfeeds:cover image="" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/finance/486399-vybrat-kvalitni-zivotni-pojistku-neni-snadne-na-co-si-dat-pozor.html">
+
+        <link>https://www.novinky.cz/finance/486399-vybrat-kvalitni-zivotni-pojistku-neni-snadne-na-co-si-dat-pozor.html</link>
+
+        <title>Vybrat kvalitní životní pojistku není snadné. Na co si dát pozor?</title>
+        <dc:date>2018-10-29T01:27:01+01:00</dc:date>
+
+
+        <description>Životní pojištění patří mezi produkty, které si člověk uzavírá na mnoho let. Vyplatí se proto věnovat výběru vhodné pojistky delší dobu, projít si nabídky, a hlavně zamyslet se nad tím, co od ní očekáváte. </description>
+        <webfeeds:cover image="https://media.novinky.cz/161/711619-top_foto1-ptkf0.jpg" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/koktejl/487404-vedci-uci-umelou-inteligenci-pouzivat-usta-onim-prijemnym-zpusobem.html">
+
+        <link>https://www.novinky.cz/koktejl/487404-vedci-uci-umelou-inteligenci-pouzivat-usta-onim-prijemnym-zpusobem.html</link>
+
+        <title>Vědci učí umělou inteligenci používat ústa oním příjemným způsobem</title>
+        <dc:date>2018-10-28T23:19:02+01:00</dc:date>
+
+
+        <description>Společnost na výrobu hraček pro dospělé vyvíjí už několik let zařízení navržené tak, aby co nejrealističtěji simulovalo orální sex prováděný na mužích. Snaží se umělou inteligencí poháněné zařízení zvané „Autoblow” naučit dopřávat prožitek, který mohli doposud dopřávat pouze další lidé. Příští rok by se tak mělo dostat na trh zařízení Autoblow A.I., které by mělo být výrazně pokročilejší než předchůdce Autoblow.</description>
+        <webfeeds:cover image="" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/cestovani/487333-zeme-kde-se-posvatne-zlato-pridava-i-do-piti.html">
+
+        <link>https://www.novinky.cz/cestovani/487333-zeme-kde-se-posvatne-zlato-pridava-i-do-piti.html</link>
+
+        <title>Země, kde se posvátné zlato přidává i do pití</title>
+        <dc:date>2018-10-28T13:47:01+01:00</dc:date>
+
+
+        <description>Pro okolní státy je Myanmar známý jako zlatá země. A není těžké pochopit proč. Už při pohledu z nebe jdou vidět třpytící se zlaté stúpy a pagody rozeseté po krajině i v ulicích rušných měst. Zlato je v zemi nejposvátnějším artiklem, při zvláštních příležitostech ho lidé přidávají i do jídla a pití, píše BBC.</description>
+        <webfeeds:cover image="" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/finance/487033-na-benzinky-uz-i-za-nakupy-a-zabavou.html">
+
+        <link>https://www.novinky.cz/finance/487033-na-benzinky-uz-i-za-nakupy-a-zabavou.html</link>
+
+        <title>Na benzínky už i za nákupy a zábavou</title>
+        <dc:date>2018-10-28T03:00:02+01:00</dc:date>
+
+
+        <description>Časy, kdy čeští řidiči zajížděli k čerpacím stanicím výhradně kvůli tankování pohonných hmot či mytí auta, jsou pryč. Většina provozovatelů je totiž zmodernizovala natolik, že benzínky jsou pro mnohé lidi také vyhledávaným místem k občerstvení, odpočinku a zábavě. Vedle stále častějšího nákupu potravin, léků či dárků se také stávají oblíbeným místem k pracovním schůzkám.</description>
+        <webfeeds:cover image="" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/finance/486950-slovaku-v-cesku-pribyva-laka-je-vice-pracovnich-prilezitosti-i-vyssi-zivotni-uroven.html">
+
+        <link>https://www.novinky.cz/finance/486950-slovaku-v-cesku-pribyva-laka-je-vice-pracovnich-prilezitosti-i-vyssi-zivotni-uroven.html</link>
+
+        <title>Slováků v Česku přibývá, láká je více pracovních příležitostí i vyšší životní úroveň</title>
+        <dc:date>2018-10-27T12:58:01+01:00</dc:date>
+
+
+        <description>Počet Slováků i Slovenek žijících a pracujících v České republice rok od roku roste. Během posledních zhruba deseti let se dokonce zdvojnásobil, ke konci září v ČR žilo více než 115 tisíc lidí se slovenskou národností. Žít a pracovat v Česku láká v posledních letech především mladé lidi, oceňují zde hlavně kvalitnější vzdělávání, více pracovních příležitostí i lepší platové ohodnocení a životní úroveň. </description>
+        <webfeeds:cover image="" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/muzi/487100-nemecti-vegani-z-exotu-zajimava-vysec-trhu.html">
+
+        <link>https://www.novinky.cz/muzi/487100-nemecti-vegani-z-exotu-zajimava-vysec-trhu.html</link>
+
+        <title>Němečtí vegani: Z exotů zajímavá výseč trhu</title>
+        <dc:date>2018-10-27T09:21:01+01:00</dc:date>
+
+
+        <description>Vypadá to jako maso, avšak není to maso. Bezmasé řízky a klobásy dobývají pulty německých supermarketů. Slibují zdravý požitek bez lítosti nad mrtvými zvířaty. „Veganství považuji za mnohem víc než jen výběr potravy. Je to životní postoj. Něco záměrně upřednostňuje, něčeho se zříká. A navíc přesně zapadá do současnosti, je cool, chcete-li,“ vysvětluje agentuře DPA jedna ze zakladatelek organizace Pro Veg Silke Wötzingerová.</description>
+        <webfeeds:cover image="" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/veda-skoly/487153-umely-mesic-ach-jo-nesmysl-reaguje-cesky-astronom-na-cinsky-napad.html">
+
+        <link>https://www.novinky.cz/veda-skoly/487153-umely-mesic-ach-jo-nesmysl-reaguje-cesky-astronom-na-cinsky-napad.html</link>
+
+        <title>Umělý Měsíc? Ach jo, nesmysl, reaguje český astronom na čínský nápad</title>
+        <dc:date>2018-10-26T18:36:01+01:00</dc:date>
+
+
+        <description>Čcheng-tu, metropole čínské provincie S'-čchuan, hodlá do dvou let vyslat na oblohu světelný satelit. Tento „umělý Měsíc“ bude mít na sobě reflexní vrstvu, aby odrážel světlo ze Slunce. Ne každý na to pohlíží s nadšením, podle agentury Reuters to navíc může komplikovat astronomická pozorování. Rovněž první reakce astronoma Pavla Suchana pro Novinky zněla: „Ach jo.“</description>
+        <webfeeds:cover image="" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/komentare/487347-komentar-hyperliberalismus-alexander-tomsky.html">
+
+        <link>https://www.novinky.cz/komentare/487347-komentar-hyperliberalismus-alexander-tomsky.html</link>
+
+        <title>KOMENTÁŘ: Hyperliberalismus - Alexander Tomský</title>
+        <dc:date>2018-10-26T13:24:01+01:00</dc:date>
+
+
+        <description>Počátkem letošního roku se na anglojazyčném trhu objevily dvě pozoruhodné knihy dvou historiků zabývající se „dějinami” současnosti, jak hlásá ambiciózní podtitul spisu anglického profesora Michaela Burleigha „Nejlepší i nejhorší časy” i úvod izraelského profesora Yuvala N. Harariho, že se ve své knize „21 lekcí pro 21 století, zabývá tím co je „tady a teď.</description>
+        <webfeeds:cover image="" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/komentare/487314-komentar-ideovy-trosecnik-petr-pitha-a-jeho-souputnici-jiri-pehe.html">
+
+        <link>https://www.novinky.cz/komentare/487314-komentar-ideovy-trosecnik-petr-pitha-a-jeho-souputnici-jiri-pehe.html</link>
+
+        <title>KOMENTÁŘ: Ideový trosečník Petr Piťha a jeho souputníci - Jiří Pehe</title>
+        <dc:date>2018-10-26T10:16:01+01:00</dc:date>
+
+
+        <description>Kontroverzní svatováclavské kázání římskokatolického kněze a bývalého ministra školství Petra Piťhy proti úmluvě Rady Evropy o prevenci a boji proti násilí na ženách a domácímu násilí, známé jako Istanbulská smlouva, vyvolalo silné odsudky i chválu. Tyto reakce jsou zajímavější než samotná Piťhova řeč plná bezzubé, tragikomické extrémnosti.</description>
+        <webfeeds:cover image="" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+    <item rdf:about="https://www.novinky.cz/muzi/486668-izraelska-restaurace-sklizi-uspech-s-falafelovymi-vaflemi.html">
+
+        <link>https://www.novinky.cz/muzi/486668-izraelska-restaurace-sklizi-uspech-s-falafelovymi-vaflemi.html</link>
+
+        <title>Izraelská restaurace sklízí úspěch s falafelovými vaflemi</title>
+        <dc:date>2018-10-26T09:13:01+01:00</dc:date>
+
+
+        <description>Nápaditost se vyplácí. Důkazem je jedna z restaurací v izraelském městě Rišon le-Cijon, ležícím jižně od Tel Avivu, která začala vyrábět vafle z falafelového těsta. Zájem o nevšední pochutinu je tak velký, že je v podniku dennodenně nekonečná řada.</description>
+        <webfeeds:cover image="" />
+        <webfeeds:icon>https://www.novinky.cz/static/images/favicons/favicon.ico</webfeeds:icon>
+        <webfeeds:logo>https://www.novinky.cz/static/images/logo.gif</webfeeds:logo>
+        <webfeeds:accentColor>cf0000</webfeeds:accentColor>
+        <webfeeds:related layout="card" target="browser"/>
+    </item>
+
+</rdf:RDF>
