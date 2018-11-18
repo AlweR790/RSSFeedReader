@@ -2,20 +2,15 @@ package cz.uhk.fim.RSSFeedReader.gui;
 
 import cz.uhk.fim.RSSFeedReader.model.RSSItem;
 import cz.uhk.fim.RSSFeedReader.model.RSSList;
-import cz.uhk.fim.RSSFeedReader.model.RSSSource;
-import cz.uhk.fim.RSSFeedReader.utils.FileUtils;
 import cz.uhk.fim.RSSFeedReader.utils.RSSparser;
 
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.util.ArrayList;
-import java.util.List;
 
 public class MainFrame extends JFrame
 	{
 		private JPanel controlPanel;
-		private JButton buttonLoad;
+		private JButton buttonAdd;
 		private JButton buttonSave;
 		private JTextField textFieldAddress;
 		private JLabel errorLabel;
@@ -33,13 +28,13 @@ public class MainFrame extends JFrame
 			{
 				controlPanel = new JPanel(new BorderLayout());
 				textFieldAddress = new JTextField();
-				buttonLoad = new JButton("Load");
+				buttonAdd = new JButton("Add");
 				buttonSave = new JButton("Save");
 				errorLabel = new JLabel();
 				errorPanel = new JPanel();
 				errorPanel.add(errorLabel, BorderLayout.CENTER);
 				errorLabel.setForeground(Color.RED);
-				controlPanel.add(buttonLoad, BorderLayout.WEST);
+				controlPanel.add(buttonAdd, BorderLayout.WEST);
 				controlPanel.add(buttonSave, BorderLayout.EAST);
 				controlPanel.add(textFieldAddress, BorderLayout.CENTER);
 				controlPanel.add(errorPanel, BorderLayout.SOUTH);
@@ -52,37 +47,13 @@ public class MainFrame extends JFrame
 
 				add (new JScrollPane(contentPanel), BorderLayout.CENTER);
 
-				buttonLoad.addActionListener(new AbstractAction()
-					{
-						@Override
-						public void actionPerformed(ActionEvent actionEvent)
-							{
-								if (validateInput(textFieldAddress.getText()))
-									loadRSS(textFieldAddress.getText());
-								else
-									errorLabel.setText("Bad Input");
+				buttonAdd.addActionListener(abstractAction ->
+				{
+					AddView add = new AddView();
+					add.setVisible(true);
+				});
 
-                                List<RSSSource> sources = FileUtils.loadSources();
-                                for(RSSSource s: sources)
-                                    {
-                                        System.out.println(s.getName() + " ; " + s.getSource());
-                                    }
 
-							}
-					});
-
-				buttonSave.addActionListener(new AbstractAction()
-					{
-						@Override
-						public void actionPerformed(ActionEvent actionEvent)
-							{
-								List<RSSSource> sources = new ArrayList<>();
-								sources.add(new RSSSource("živě.cz", "https://refverver.cz"));
-								sources.add(new RSSSource("adcveswverbve", "vrevev es"));
-								sources.add(new RSSSource("eswrvrewvewrv", "vcesrvesververvbr"));
-								FileUtils.saveSources(sources);
-							}
-					});
 			}
 
 		private void loadRSS(String source)
@@ -103,10 +74,7 @@ public class MainFrame extends JFrame
 					}
 			}
 
-		private boolean validateInput(String text)
-			{
-				return !text.trim().isEmpty();
-			}
+
 
 		private void init()
 			{
